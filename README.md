@@ -5,7 +5,7 @@
 
 <!-- SECTION A: ANIMATED HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ankith+Reddy+%F0%9F%91%8B;Senior+Workday+Engineer;5%2B+Years+of+Enterprise+HR+Expertise;Building+Innovative+Workday+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ankith+Reddy+%F0%9F%91%8B;Senior+Workday+Engineer;4%2B+Years+of+Enterprise+HR+Expertise;Building+Innovative+Workday+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
 <!-- SECTION B: ABOUT ME / SUMMARY -->
 ## 👨‍💻 About Me
 
-I'm an **Accomplished Senior Workday Engineer** with over **5 years of proven success** in developing and implementing scalable Workday integration solutions for enterprise systems. My expertise spans **HCM, Payroll, Benefits, Recruiting, and Financial systems**, with deep proficiency in Workday Studio, Core Connectors, EIB, PECI, Workday Orchestrate, Workday Extend, REST/SOAP APIs, XML, XSLT, JSON, and Workday reporting technologies.
+I'm an **Accomplished Senior Workday Engineer** with over **4+ years of proven success** in developing and implementing scalable Workday integration solutions for enterprise systems. My expertise spans **HCM, Payroll, Benefits, Recruiting, and Financial systems**, with deep proficiency in Workday Studio, Core Connectors, EIB, PECI, Workday Orchestrate, Workday Extend, REST/SOAP APIs, XML, XSLT, JSON, and Workday reporting technologies.
 
 Recognized for leading client-facing initiatives, driving technical design and end-to-end implementation, and delivering production-ready integrations through strategic collaboration with stakeholders, vendors, and cross-functional technical teams. Proven ability to translate complex business requirements into robust, scalable integration architectures using **Workday Studio, Workday Extend, Workday Prism, Core Connectors, CCB, Web Services, and Enterprise Interface Builder**.
 
@@ -265,3 +265,4 @@ Currently Working On:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer"/>
 
 </div>
+
